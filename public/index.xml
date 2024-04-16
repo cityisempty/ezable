@@ -18,7 +18,20 @@
 &lt;a class=&#34;link&#34; href=&#34;https://www.dora.run/signup?utm_campaign=615023_615655&amp;amp;signature=250443bbcf9a5769870c4671347f293e&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;点击体验&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
-&lt;p&gt;![这是图片](2024-04-16 16.39.31.png &amp;ldquo;dora&amp;rdquo;)&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	&gt;
+	&lt;a href=&#34;http://localhost:1313/img/2024-04-16.png&#34; &gt;
+		&lt;img src=&#34;http://localhost:1313/img/2024-04-16.png&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;Dora 界面&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;Dora 界面&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
