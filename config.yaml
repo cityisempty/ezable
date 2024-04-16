@@ -1,4 +1,4 @@
-baseurl: https://lmm.pages.dev
+baseurl: https://sun.ezable.cn
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: AI布道，效率为王.
         avatar:
             enabled: false
             local: true
