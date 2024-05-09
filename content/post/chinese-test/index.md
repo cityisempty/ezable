@@ -1,8 +1,8 @@
 ---
-title: Chinese Test
-description: 这是一个副标题
-date: 2020-09-09
-slug: test-chinese
+title: Agent Workflow 和 主流设计模式
+description: LLM应用开发的新热点 
+date: 2024-05-09
+slug: agentworkflow
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - Test
@@ -11,29 +11,128 @@ categories:
 
 ## 正文测试
 
-而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。
+今天分享的是吴恩达教授在美国红杉 AI 活动上关于 Agent 的最新趋势与洞察。吴恩达表示 Agent 工作流程与传统使用 LLM 的方式不同,它更加迭代和对话式。
 
-奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXV0g3VjJwUWJ3SmVrOHh3Y0VmdzE4aWFxWmhkZzVKU0MxaGVzUEpDVmZjdlNDR0VRWGljY1M5d1EvNjQwP3d4X2ZtdD1wbmcmYW1w;from=appmsg)
 
-## 引用
+目前，有 4 种主要的 Agent 设计模式，分别是：
 
-> 思念是最暖的忧伤像一双翅膀  
-> 让我停不了飞不远在过往游荡  
-> 不告而别的你 就算为了我着想  
-> 这么沉痛的呵护 我怎么能翱翔  
-> 
-> *[最暖的憂傷 - 田馥甄](https://www.youtube.com/watch?v=3aypp_YlBzI)*
+- **1）Reflection**：让 Agent 审视和修正自己生成的输出；
+- **2）Tool Use**：LLM 生成代码、调用 API 等进行实际操作；
+- **3）Planning**：让 Agent 分解复杂任务并按计划执行；
+- **4）Multiagent Collaboration**：多个 Agent 扮演不同角色合作完成任务；
 
-## 图片
+这些设计模式目前还在快速发展中，有的比较成熟可靠，有的仍存在不确定性，但都展现了提高 AI 能力的潜力。
 
-![Photo by Florian Klauer on Unsplash](florian-klauer-nptLmg6jqDo-unsplash.jpg)  ![Photo by Luca Bravo on Unsplash](luca-bravo-alS7ewQ41M8-unsplash.jpg) 
+吴恩达认为，未来 AI Agent 能力将大幅扩展，我们需要学会将任务委托给 Agent 并耐心等待结果，而不是追求即时响应。另外，快速 token 生成也很重要，即使基于质量较低的LLM，快速迭代生成新 token 也可能获得良好结果。
 
-![Photo by Helena Hertz on Unsplash](helena-hertz-wWZzXlDpMog-unsplash.jpg)  ![Photo by Hudai Gayiran on Unsplash](hudai-gayiran-3Od_VKcDEAA-unsplash.jpg)
+后台回复“进群”入群讨论AI agentic workflow。
 
-```markdown
-![Photo by Florian Klauer on Unsplash](florian-klauer-nptLmg6jqDo-unsplash.jpg)  ![Photo by Luca Bravo on Unsplash](luca-bravo-alS7ewQ41M8-unsplash.jpg) 
+以下为这次分享的全部内容：
 
-![Photo by Helena Hertz on Unsplash](helena-hertz-wWZzXlDpMog-unsplash.jpg)  ![Photo by Hudai Gayiran on Unsplash](hudai-gayiran-3Od_VKcDEAA-unsplash.jpg)
-```
+我期待与大家分享我对 AI Agent 所见到的东西，这是一个我认为每个人在构建 AI 时都应该注意的激动人心的趋势。同时，我也对所有其他的“接下来会发生什么”的展示感到兴奋。
 
-相册语法来自 [Typlog](https://typlog.com/)
+AI Agent ，今天我们大多数人使用 LLM 的方式就像这样，通过一个非 Agent 性工作流程，你输入一个提示，它生成一个回答。这有点像如果你让一个人就某个话题写一篇论文，我说，请坐到键盘前，从头到尾不断地打字写完这篇论文，从不使用退格键。尽管这样做有多困难， LLM 却能做得出奇的好。
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXa1FQM3NBQ2VzMW5KbDlxWHR1RDUwaktpYXpHWG8xTU12akNwZEltdUNQTm41SGlhdDhnOTdLT3cvNjQwP3d4X2ZtdD1wbmcmYW1w;from=appmsg)
+
+相比之下， Agent 性工作流程可能是这样的：让 AI 或 LLM 说，写一个论文大纲。你需要做任何网络研究吗？如果需要，让我们开始吧。然后写第一稿，然后阅读你自己的第一稿，思考哪些部分需要修改，然后修订你的草稿，你可以一遍又一遍地进行。因此，这个工作流程更加迭代，你可能让模型进行一些思考，然后修改文章，然后再思考，并通过多次迭代来完成这个过程。
+
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXVVN4Y21YMk5HYktVT05kUnc0YkdueUs5ejhVbXJsWTZBOFRCWTNzRWxVMWhtdHdsY3QwSXNBLzY0MD93eF9mbXQ9cG5nJmFtcA==;from=appmsg)
+
+许多人没有意识到的是，这样可以获得显著更好的结果。实际上，我自己也非常惊讶于对话工作流程的效果如何。我将在我的团队中做一个案例研究，使用几年前 OpenAI 发布的一个名为 Human Eval Benchmark 的编码基准来分析一些数据，但这有编码问题，比如给定非负整数列表，返回所有奇数元素或不均匀位置的总和。
+
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXdDQ3S0JrdHF6ZHpNWE9oQ3dEazdtdnhwZVR1ek9ya0ZJcVZ4eU5NR3IwS0hrS1pqUEhic2FBLzY0MD93eF9mbXQ9cG5nJmFtcA==;from=appmsg)
+
+结果是，像这样的代码片段。今天我们很多人会使用零次提示，意味着我们告诉 AI 写代码并在第一次尝试时运行它。说谁会那样编码？没有人会那样编码。我们只是打出代码并运行它。也许你可以。我做不到。结果是，如果你使用 GPT-3.5 零次提示，它的正确率是 48%。
+
+GPT-4 做得更好，正确率达到了 67.7%，但如果你围绕 GPT-3.5 使用一个 Agent 性工作流程，实际上它的表现甚至比 GPT-4 还要好。如果你将这种类型的工作流程应用于 GPT-4，它也表现得非常好。你会注意到，GPT-3.5 与一个 Agent 性工作流程相结合实际上超过了 GPT-4 的表现。
+
+我认为这意味着，这对我们所有人构建应用程序的方式有着第二层次的影响。Agent 是一个经常被提及的术语和任务，有很多咨询报告讨论关于 Agent 、AI 的未来等等。
+
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXcHRGcjAwNE1XdGlhTkJSaWJjQURTaWNWVThucGoxaEYySDFLY2tsNElTNXZhbmdKRWVXcFFPS0VnLzY0MD93eF9mbXQ9cG5nJmFtcA==;from=appmsg)
+
+我想具体分享一下我在 Agent 方面看到的广泛设计模式。这是一个非常混乱、动荡的领域，有大量的研究和开源项目。发生了很多事情，但我试图将其更具体地归类到已经发生的事情上。
+
+**1.Reflection**
+
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXQXFwTnpzNFhzUVVJaWFuOU5oNXVDSFVKdlhpYUpqQnI1UVBRakVwaDBEckxiaWJPVUsxM1F1eGt3LzY0MD93eF9mbXQ9cG5nJmFtcA==;from=appmsg)
+
+Agent Reflection 是一个工具，我认为我们许多人都在使用，它就是起作用的工具。我认为它得到了更广泛的认可，而且实际上效果相当好。我认为这些是相当健壮的技术。当我使用它们时，我几乎总能让它们运行得很好，规划和多 Agent 合作。
+
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXbXh4REkzWU5nUzFxaWFXMGliYXRNRDdIZDZHNFp1d2xnNHlxWkI5RXlINzZDOTBia2VTcHlvOHcvNjQwP3d4X2ZtdD1wbmcmYW1w;from=appmsg)
+
+我认为这更多是一个新兴的领域，当我使用它们时，有时候我对它们的表现感到惊讶，但至少在此刻，我感觉我不能总是可靠地让它们工作。让我通过几个方面来讲解这四种设计模式。如果你们中的一些人回去自己尝试，或者让你们的工程师使用这些，我认为你们会很快获得生产力的提升。
+
+关于Reflection，这里有个例子。比方说我让一个系统为我写代码完成一个给定的任务。然后我们有一个编码 Agent ，只是一个你提示写代码的 LLM ，比如说，“嘿，定义 doTask，像这样写一个函数。”
+
+自我 Reflection 的一个例子可能是，如果你然后用类似这样的提示对 LLM 进行提示：“这里有一段代码是为了完成一个任务，只是把它们刚刚生成的完全相同的代码给它，然后说，仔细检查代码的正确性、效率、构造是否良好。只需要像这样写一个提示。”
+
+结果可能是，你提示写代码的同一个 LLM ，可能能够发现诸如第 5 行的这个错误，并通过某种方式修复它。如果你现在拿它自己的反馈给它，并重新提示它，它可能会得出一个第二版本的代码，这个版本的代码可能比第一版本工作得更好。
+
+不保证，但它经常足够有效，对很多应用来说值得一试，预示着如果你让它运行单元测试，如果它未通过单元测试，那么为什么会未通过单元测试？有那样的对话或许能弄清楚为什么未通过单元测试。所以试着改变一些东西，可能得到第三版本。
+
+顺便说一下，对于那些想要了解更多这些技术的人，我对它们感到非常兴奋，对于四个部分中的每一个，我都在底部有一个推荐阅读部分，那里，包含了更多的参考资料。
+
+再次预示，多 Agent 系统，我描述的是一个单独的代码 Agent ，你提示它进行自我对话。这个想法的一个自然演化是，不是一个单独的代码 Agent ，你可以有两个 Agent ，其中一个是代码 Agent ，另一个是批评 Agent 。这些可以是相同的基础 LLM ，但以不同的方式进行提示。我们说一个，你是专家级的代码撰写者，对吧？写代码。另一个说，你是专家级的代码审查者，审查这段代码。
+
+这种工作流实际上很容易实现。我认为这是一种非常通用的技术，对许多工作流程而言。这将显著提高 LLM 的性能。
+
+**2.Tool Use**
+
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXVHlMRDVMZDFrMWVLdDVVbFBwY1U3TmliWUV3a0dTR0t3bzVRWG5YdWdlN1FKVnlkOEc4cUNDZy82NDA/d3hfZm10PXBuZyZhbXA=;from=appmsg)
+
+第二种设计模式是许多人已经看到的，基于 LLM 的系统使用的工具，左边是一个来自 Copilot 的截图。右边是我从 GPT-4 中提取的东西，但今天的 LLM ，如果你问它，什么是网上搜索中最好的咖啡机，对某些问题， LLM 会生成代码并运行代码。事实证明，有很多不同的工具被许多不同的人用于分析、获取信息、采取行动、个人生产力。
+
+![微软联合举办的生成式 AI 旧金山峰会 2024 火热来袭！RSVP 获行业领袖深度交流机会，文末领取专属九折优惠](http://mp.weixin.qq.com/s?__biz=Mzg3NDkyMTQ5Mw==&mid=2247491472&idx=2&sn=07d57952c50924b39f2a4ae6be6743c7&chksm=cec834eaf9bfbdfce459c00db2bdb38271c7ddeaf0c88939d0fc3b68bf219bc3efa2b2417f6e&scene=21#wechat_redirect)
+
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZUdpYkc1TFp5MFVETEJzMkxPT0hhWlFnUnpwekRpYzFhc3VjUEpQVDRIcmQyZFFzQ1M3aWNubmljeWE0bDNtTEM4cVJDdEowZU0zZlBQTFEvNjQwP3d4X2ZtdD1wbmcmYW1w;from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1)
+
+早期的工作转向使用，原来是在计算机视觉社区。因为在 LLM 之前，它们无法处理图像。所以唯一的选择是生成一个可以操纵图像的函数调用，比如生成一个图像或进行对象检测等。如果你实际上看看文献，很有趣的是，很多在使用方面的工作似乎都起源于视觉领域，因为在 GPT-4 等出现之前， LLM 对图像是盲目的，这就是使用，并扩展了 LLM 可以做的事情。
+
+**3.Planning**
+
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXVmljdWJOUHU1U09LMjVDbXFISzd1dEhETWxlZVRTRWs5R3Q2Qk40dUgxM25hNFhCaDlSdnhhQS82NDA/d3hfZm10PXBuZyZhbXA=;from=appmsg)
+
+然后是规划，对于那些还没有大量玩过规划算法的人，我感觉很多人谈论 ChatGPT 时刻，你会惊叹，从未见过这样的东西。我认为你还没有使用规划算法。许多人会对 AI Agent 有种惊讶的感觉。
+
+我无法想象 AI Agent 能做得这么好。我进行过实时演示，其中一些失败了，AI Agent 绕过了这些失败。我实际上遇到了不少这样的情况，是的，我无法相信我的 AI 系统刚刚自主地做到了那一点。
+
+但一个从 HuggingGPT 论文中改编的例子，你说，请生成一张图片，图片中的女孩在读书，而且与图像示例 dot jpeg 中的男孩姿势相同，请用语音描述新图像。所以给出这样一个例子，今天有 AI Agent ，你可以决定首先需要做的是确定男孩的姿势。然后，找到正确的模型，可能在 HuggingFace 上提取姿势。接下来需要找到姿势图像模型来合成一张女孩的图片，遵循指令。然后使用图像检测，最后使用文本到语音。
+
+今天我们实际上有 Agent ，我不想说它们工作得很可靠，它们有点挑剔。它们不总是工作，但当它工作时，实际上相当了不起，但有了 Agent 性循环，有时你也可以从早期的失败中恢复过来。所以我发现我已经在使用研究 Agent 。所以我的一些工作，一部分研究，但我不觉得，自己去谷歌搜索并花很长时间。我应该发送给研究 Agent ，几分钟后回来看看它找到了什么，有时它有效，有时没有，但这已经是我的个人工作流程的一部分了。
+
+**4.Multiagent Collaboration**
+
+最后一个设计模式，多 Agent 合作，这个，听起来很有趣，但它的效果比你可能想象的要好得多。左边是一篇名为 ChatDev 的论文的截图，这完全是开源的，实际上是开源的。你们许多人看到了，闪亮的社交
+
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXaHlYaWI4RXVZUHAxaWFpYnVlcDdBNmRicnJrWkdlaGxvM2tOTFRkaWJ4dk9vRnZOM2tFZXBGUk5lQS82NDA/d3hfZm10PXBuZyZhbXA=;from=appmsg)
+
+媒体发布的 demo，ChatDev 是开源的，在我的笔记本电脑上运行。ChatDev 是一个多 Agent 系统的示例，你可以提示一个 LLM 有时表现得像软件工程公司的 CEO，有时像设计师，有时像产品经理，有时像测试人员。
+
+通过提示 LLM 告诉它现在你是 CEO，现在你是软件工程师，它们合作，进行扩展的对话，以至于如果你告诉它，请开发一个游戏，开发一个多人游戏，它们实际上会花费几分钟编写代码，测试它，迭代它，并最终生成一个出人意料的复杂程序。
+
+这种多 Agent 合作听起来可能有些奇特，但实际上它的效果比你可能想象的要好。这不仅仅是因为这些 Agent 之间的合作能够带来更加丰富和多样的输入，而且因为它能够模拟出一个更加接近真实工作环境的场景，其中不同角色和专业知识的人员为了共同的目标而努力。这种方式的强大之处在于它能够让 LLM 不仅仅是执行单一任务的工具，而是成为一个能够处理复杂问题和工作流程的协作系统。
+
+这种方法的潜在价值巨大，因为它为自动化和提升工作流程的效率提供了新的可能性。例如，通过模拟一个软件开发团队的不同角色，一个企业可以自动化某些开发任务，从而加快项目的进度并减少错误。同样，这种多 Agent 合作方式也可以应用于其他领域，如内容创作、教育和培训、以及策略规划等，进一步拓宽 LLM 在各个行业的应用范围。
+
+**总结**
+
+![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXVGVEc0JpYjRvTWpWS0xoOHVRRUNCMzBQa2xtZEJBMWlhcVFmWUMzOTQ5dWhIRWZLcWpUcHpMQmcvNjQwP3d4X2ZtdD1wbmcmYW1w;from=appmsg)
+
+总之，通过 Agent Reflection、规划与多 Agent 合作等设计模式，我们不仅能够提升 LLM 的性能，还能够拓展它们的应用领域，使它们成为更加强大和灵活的工具。随着这些技术的不断发展和完善，我们期待着未来 AI Agent 能够在更多的场景中发挥关键作用，为人们带来更加智能和高效的解决方案。
+
+它并不总是有效。我用过它。有时候它不起作用，有时候它令人惊讶，但这项技术确实在变得更好。还有一个设计模式，事实证明，多 Agent 辩论，即不同 Agent 之间的辩论，例如，可以让 ChatGPT 和 Gemini 互相辩论，这实际上也能带来更好的表现。
+
+因此，让多个模拟的空气 Agent 一起工作也是一个强大的设计模式。总结一下，我认为这些是我见过的模式。我认为，如果我们能够使用这些模式，我们中的许多人可以很快实现实践上的提升。我认为， Agent 推理设计模式将会很重要。
+
+这是我的简短总结幻灯片。我预计，因为 Agent 工作流，AI 能做的任务将在今年大幅扩展。一个实际上让人难以习惯的事情是，当我们向 LLM 发出提示时，我们希望立即得到回应。实际上，十年前当我在 Google 讨论我们称之为大框搜索时，输入长提示的原因之一，我未能成功推动的原因之一是因为当你进行网络搜索时，你希望在半秒钟内得到回应，对吧？这就是人性，即时抓取，即时反馈。
+
+对于许多 Agent 工作流，我认为我们需要学会将任务委托给 AI Agent ，并耐心等待几分钟，甚至几小时以获得回应，但就像我见过许多新手经理将任务委托给某人，然后五分钟后检查一样，对吧？这不是生产性的。
+
+我认为我们也需要学会这样做，与我们的一些 AI Agent 打交道，虽然这很难。我以为我听到了一些损失。然后一个重要趋势是，快速 token 生成器很重要，因为在这些 Agent 工作流中，我们不断迭代。所以 LLM 为 LLM 生成 token ，能够以远超任何人阅读速度的速度生成 token 是非常棒的。
+
+我认为，即使是来自稍微低质量的 LLM ，快速生成更多 token 也可能与来自更好 LLM 的慢 token 相比，获得好的结果。这可能有点争议，因为它可能让你更多次地绕这个循环，有点像我在第一张幻灯片上展示的 GPDC 和一个 Agent 架构的结果。
+
+坦率地说，我非常期待 Claude5 和 Claude4，GPT-5 和 Gemini 2.0 以及所有这些你们正在构建的精彩模型。我部分感觉，如果你期待在 GPT-5 上运行你的东西，零样本，你可能真的会在某些应用上获得比你想象的更接近那种水平的表现，通过 Agent 推理，但在一个早期模型上，我认为，这是一个重要趋势。
+
+老实说，通往 AGI 的道路感觉像是一次旅程而非一个目的地，但我认为这种 Agent 工作流程可能帮助我们在这个非常长的旅程上向前迈出一小步。
