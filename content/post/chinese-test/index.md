@@ -9,13 +9,31 @@ categories:
     - 测试
 ---
 
-## 正文测试
+## Agent Workflow 和 主流设计模式
 
-今天分享的是吴恩达教授在美国红杉 AI 活动上关于 Agent 的最新趋势与洞察。吴恩达表示 Agent 工作流程与传统使用 LLM 的方式不同,它更加迭代和对话式。
+今天分享的是吴恩达教授在美国红杉 AI 活动上关于 Agent 的最新趋势与洞察。吴恩达表示 Agent 工作流程与传统使用 LLM 的方式不同,它更加迭代和对话式。文章部分内容基于AI翻译，不能保证准确性，仅供参考。
 
 ![](https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXV0g3VjJwUWJ3SmVrOHh3Y0VmdzE4aWFxWmhkZzVKU0MxaGVzUEpDVmZjdlNDR0VRWGljY1M5d1EvNjQwP3d4X2ZtdD1wbmcmYW1w;from=appmsg)
 
-目前，有 4 种主要的 Agent 设计模式，分别是：
+AI Agent 正在成为越来越多的应用场景的重要组成部分。在这次分享中，吴恩达老师将介绍 AI Agent 的工作流程以及主流的设计模式。
+
+## 什么是 Agent？
+
+Agent 是一种可以与人类进行交流的机器人，可以完成各种任务。它可以是虚拟的，也可以是真实存在的。在现实世界中，我们可以看到许多这样的机器人，比如自动驾驶汽车、智能助手、虚拟助手等。
+
+## 什么是 Agent Workflow？
+
+Agent Workflow 是指由人类和 Agent 共同完成的任务。它可以是单一的，也可以是多步的。Agent Workflow 通常包括以下几个步骤：
+
+1. 输入：Agent 向用户提出问题或请求信息。
+2. 理解：Agent 理解用户的意图，并提出相应的回答。
+3. 决策：Agent 根据用户的需求和信息，做出决策。
+4. 执行：Agent 执行决策，并与用户进行交流。
+5. 输出：Agent 向用户提供结果或反馈。
+
+## 主流设计模式
+
+Agent 设计模式是指用来解决复杂任务的 AI 系统的设计方法。Agent 设计模式可以分为四种主要类型：
 
 - **1）Reflection**：让 Agent 审视和修正自己生成的输出；
 - **2）Tool Use**：LLM 生成代码、调用 API 等进行实际操作；
