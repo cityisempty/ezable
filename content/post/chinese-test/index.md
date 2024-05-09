@@ -3,10 +3,11 @@ title: Agent Workflow 和 主流设计模式
 description: LLM应用开发的新热点 
 date: 2024-05-09
 slug: agentworkflow
-image: helena-hertz-wWZzXlDpMog-unsplash.jpg
+image: accesswximg.png
 categories:
-    - Test
-    - 测试
+    - AI Agent
+    - 智能体
+    - 工作流
 ---
 
 ## Agent Workflow 和 主流设计模式
