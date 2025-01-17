@@ -2,7 +2,7 @@ baseurl: https://sun.ezable.cn
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: 羽扇纶巾
+title: 新杂家
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: AI布道，效率为王.
+        subtitle: 杂之广义，无所不包.
         avatar:
             enabled: false
             local: true
