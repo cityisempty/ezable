@@ -1,5 +1,5 @@
 (() => {
-  // ns-hugo:/Users/sunlice/Documents/GitHub/ezable/themes/hugo-theme-stack/assets/ts/gallery.ts
+  // ns-hugo-imp:/Users/licesun/Documents/ezable/themes/hugo-theme-stack/assets/ts/gallery.ts
   var StackGallery = class _StackGallery {
     galleryUID;
     items = [];
@@ -85,7 +85,7 @@
   };
   var gallery_default = StackGallery;
 
-  // ns-hugo:/Users/sunlice/Documents/GitHub/ezable/themes/hugo-theme-stack/assets/ts/color.ts
+  // ns-hugo-imp:/Users/licesun/Documents/ezable/themes/hugo-theme-stack/assets/ts/color.ts
   var colorsCache = {};
   if (localStorage.hasOwnProperty("StackColorsCache")) {
     try {
@@ -118,7 +118,7 @@
     return colorsCache[key];
   }
 
-  // ns-hugo:/Users/sunlice/Documents/GitHub/ezable/themes/hugo-theme-stack/assets/ts/menu.ts
+  // ns-hugo-imp:/Users/licesun/Documents/ezable/themes/hugo-theme-stack/assets/ts/menu.ts
   var slideUp = (target, duration = 500) => {
     target.classList.add("transiting");
     target.style.transitionProperty = "height, margin, padding";
@@ -182,8 +182,7 @@
     const toggleMenu = document.getElementById("toggle-menu");
     if (toggleMenu) {
       toggleMenu.addEventListener("click", () => {
-        if (document.getElementById("main-menu").classList.contains("transiting"))
-          return;
+        if (document.getElementById("main-menu").classList.contains("transiting")) return;
         document.body.classList.toggle("show-menu");
         slideToggle(document.getElementById("main-menu"), 300);
         toggleMenu.classList.toggle("is-active");
@@ -191,7 +190,7 @@
     }
   }
 
-  // ns-hugo:/Users/sunlice/Documents/GitHub/ezable/themes/hugo-theme-stack/assets/ts/createElement.ts
+  // ns-hugo-imp:/Users/licesun/Documents/ezable/themes/hugo-theme-stack/assets/ts/createElement.ts
   function createElement(tag, attrs, children) {
     var element = document.createElement(tag);
     for (let name in attrs) {
@@ -218,7 +217,7 @@
   }
   var createElement_default = createElement;
 
-  // ns-hugo:/Users/sunlice/Documents/GitHub/ezable/themes/hugo-theme-stack/assets/ts/colorScheme.ts
+  // ns-hugo-imp:/Users/licesun/Documents/ezable/themes/hugo-theme-stack/assets/ts/colorScheme.ts
   var StackColorScheme = class {
     localStorageKey = "StackColorScheme";
     currentScheme;
@@ -268,10 +267,8 @@
     }
     getSavedScheme() {
       const savedScheme = localStorage.getItem(this.localStorageKey);
-      if (savedScheme == "light" || savedScheme == "dark" || savedScheme == "auto")
-        return savedScheme;
-      else
-        return "auto";
+      if (savedScheme == "light" || savedScheme == "dark" || savedScheme == "auto") return savedScheme;
+      else return "auto";
     }
     bindMatchMedia() {
       window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
@@ -298,8 +295,7 @@
       if (articleTile) {
         let observer = new IntersectionObserver(async (entries, observer2) => {
           entries.forEach((entry) => {
-            if (!entry.isIntersecting)
-              return;
+            if (!entry.isIntersecting) return;
             observer2.unobserve(entry.target);
             const articles = entry.target.querySelectorAll("article.has-image");
             articles.forEach(async (articles2) => {

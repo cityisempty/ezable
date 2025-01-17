@@ -1,5 +1,5 @@
 toggleMenu:
-    other: Toggle Menu
+    other: Ocultar menú
 
 darkMode:
     other: Modo oscuro
@@ -23,15 +23,15 @@ article:
     tableOfContents:
         other: Tabla de contenido
 
-    relatedContents:
+    relatedContent:
         other: Contenidos relacionados
 
     lastUpdatedOn:
-        other: Última vez actualizado
+        other: Última actualización
 
     readingTime:
-        one: "{{ .Count }} minuto a leer"
-        other: "{{ .Count }} minutos a leer"
+        one: "Tiempo de lectura {{ .Count }} minuto"
+        other: "Tiempo de lectura {{ .Count }} minutos"
 
 notFound:
     title:
@@ -51,13 +51,16 @@ widget:
     tagCloud:
         title:
             other: Etiquetas
+    categoriesCloud:
+        title:
+            other: Categorías
 
 search:
     title:
         other: Búsqueda
 
     placeholder:
-        other: Teclea algo...
+        other: Escribe algo...
 
     resultTitle:
         other: "#PAGES_COUNT páginas en (#TIME_SECONDS segundos)"
