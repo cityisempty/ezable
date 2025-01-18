@@ -1,6 +1,6 @@
 baseurl = "https://sun.ezable.cn"
 languageCode = "en-us"
-theme = "hugo-PaperMod-master"
+theme = "PaperMod"
 paginate = 5
 title = "新杂家"
 
