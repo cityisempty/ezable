@@ -2,7 +2,7 @@
 title: Ko-fi - 一站式变现平台，粉丝打赏、接入教程  Indie Hacker Tools
 source: https://indiehackertools.net/tools/ko-fi
 author:
-  - "[Indie Hacker Tools]({{< relref "Indie%20Hacker%20Tools.md" >}})"
+  - Lice
 published: 2024-05-08
 created: 2025-01-19
 description: Ko-fi - 一站式变现平台，粉丝打赏、接入教程  Indie Hacker Tools
