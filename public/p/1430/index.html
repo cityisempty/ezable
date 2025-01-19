@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Ko-fi - 一站式变现平台，粉丝打赏、接入教程  Indie Hacker Tools">
+<title>Ko-fi - 一站式变现平台，粉丝打赏、接入教程  Indie Hacker Tools</title>
+
+<link rel='canonical' href='http://localhost:1313/p/1430/'>
+
+<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="Ko-fi - 一站式变现平台，粉丝打赏、接入教程  Indie Hacker Tools">
+<meta property='og:description' content="Ko-fi - 一站式变现平台，粉丝打赏、接入教程  Indie Hacker Tools">
+<meta property='og:url' content='http://localhost:1313/p/1430/'>
+<meta property='og:site_name' content='新杂家'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:published_time' content='2025-01-19T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-01-19T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="Ko-fi - 一站式变现平台，粉丝打赏、接入教程  Indie Hacker Tools">
+<meta name="twitter:description" content="Ko-fi - 一站式变现平台，粉丝打赏、接入教程  Indie Hacker Tools">
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">新杂家</a></h1>
+            <h2 class="site-description">杂之广义，无所不包</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://github.com/cityisempty/ezable'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://twitter.com'
+                        target="_blank"
+                        title="Twitter"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-twitter" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' target="_blank">
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/1430/">Ko-fi - 一站式变现平台，粉丝打赏、接入教程  Indie Hacker Tools</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Ko-fi - 一站式变现平台，粉丝打赏、接入教程  Indie Hacker Tools
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Jan 19, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    1 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p>目录</p>
+<ul>
+<li><a class="link" href="https://indiehackertools.net/tools/#%F0%9F%93%B9%20%E8%A7%86%E9%A2%91%E4%BB%8B%E7%BB%8D"  target="_blank" rel="noopener"
+    >📹 视频介绍</a></li>
+<li><a class="link" href="https://indiehackertools.net/tools/#%F0%9F%9A%82%20%E6%A0%B8%E5%BF%83%E5%8A%9F%E8%83%BD"  target="_blank" rel="noopener"
+    >🚂 核心功能</a></li>
+<li><a class="link" href="https://indiehackertools.net/tools/#%F0%9F%93%95%20%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E"  target="_blank" rel="noopener"
+    >📕 使用说明</a></li>
+<li><a class="link" href="https://indiehackertools.net/tools/#%E6%B3%A8%E5%86%8C"  target="_blank" rel="noopener"
+    >注册</a></li>
+<li><a class="link" href="https://indiehackertools.net/tools/#%E6%94%B6%E6%AC%BE%E8%AE%BE%E7%BD%AE"  target="_blank" rel="noopener"
+    >收款设置</a></li>
+<li><a class="link" href="https://indiehackertools.net/tools/#%E4%BB%A3%E7%A0%81%E9%85%8D%E7%BD%AE"  target="_blank" rel="noopener"
+    >代码配置</a></li>
+<li><a class="link" href="https://indiehackertools.net/tools/#%F0%9F%92%B0%20%E5%AE%9A%E4%BB%B7"  target="_blank" rel="noopener"
+    >💰 定价</a></li>
+<li><a class="link" href="https://indiehackertools.net/tools/#%E5%85%8D%E8%B4%B9%E6%96%B9%E6%A1%88"  target="_blank" rel="noopener"
+    >免费方案</a></li>
+<li><a class="link" href="https://indiehackertools.net/tools/#Ko-fi%20Gold%20%E4%BC%9A%E5%91%98"  target="_blank" rel="noopener"
+    >Ko-fi Gold 会员</a></li>
+<li><a class="link" href="https://indiehackertools.net/tools/#%F0%9F%91%89%20%E7%9B%B8%E5%85%B3%E6%8E%A8%E8%8D%90"  target="_blank" rel="noopener"
+    >👉 相关推荐</a></li>
+</ul>
+<h2 id="-视频介绍">📹 视频介绍
+</h2><p><img src="https://www.youtube.com/watch?v=6umfh6GJz5k"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<h2 id="-核心功能">🚂 核心功能
+</h2><ul>
+<li><strong>💰 接受捐赠</strong>：创作者可以在 Ko-fi 页面设置“捐赏按钮”，让粉丝可以自愿捐赠支持他们。</li>
+<li><strong>🛒 销售产品</strong>：创作者可以在个人页面开设商店，出售实体或数字产品，无需构建独立的电商网站。 独立开发者可以在这里卖代码模板。</li>
+<li><strong>📚 开设会员订阅</strong>：创作者可以为会员设置不同的订阅等级和福利，例如独家内容、折扣等，让粉丝以订阅的形式持续支持他们。</li>
+<li><strong>🎨 接受委托业务</strong>：粉丝可以在 Ko-fi 上委托创作者进行特定的创作服务，例如项目外包、绘画、视频等定制内容。</li>
+</ul>
+<h2 id="-使用说明">📕 使用说明
+</h2><p>接下来详细说说如何使用 Ko-fi 制作 “Buy Me a Coffee” 按钮收取赞助。</p>
+<h3 id="注册">注册
+</h3><p>进入<a class="link" href="https://ko-fi.com/account/register?utm_source=indiehackertools.net"  title="ko-fi 注册页"
+     target="_blank" rel="noopener"
+    >注册页</a>，填写个人信息或使用 Twitter、Gmail 等方式注册。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/e70e91541d6592d883345ccc80ef4425fcd880fb-385x540.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="Ko-fi 注册"
+	
+	
+></p>
+<p>选择 “Make money on Ko-fi”。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/f2cc097479ddd3c2ba10d054a256f07253aadde7-351x356.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="Ko-fi 注册"
+	
+	
+></p>
+<p>输入昵称。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/c7962556daf5c777c101aa5c9bff28e295848e7b-373x333.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="Ko-fi 注册"
+	
+	
+></p>
+<p>选择自己的领域类别。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/8bc3f5dc72822e0b12590862670035fc51d5d30b-358x449.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="Ko-fi 注册选择领域类别"
+	
+	
+></p>
+<p>如果你是使用邮箱注册，需要进行邮箱验证。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/1776fabe2380d164d401f4bf65f8378b04fab27d-398x296.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="Ko-fi 使用邮箱注册"
+	
+	
+></p>
+<p>注册成功，会自动跳转到赞助页面。</p>
+<h3 id="收款设置">收款设置
+</h3><p>赞助页面会自动弹出这个弹框，点击 “Payment Settings” 按钮，前往收款设置页面。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/698ce32f295ad81c9572a319e5dab3b708bb491b-1569x883.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="Ko-fi 收款设置"
+	
+	
+></p>
+<p>收款支持 PayPal 和 Stripe，选择一个进行连结。其中 Stripe 允许和信用卡和 Apple Pay 连结。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/dcbc36b6265d554528145f2bb367539c9b25c602-1891x891.webp?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="Ko-fi PayPal 连结"
+	
+	
+></p>
+<p>“Currency” 选择您希望支持者支付的货币，一般预设用美元，不支持人民币。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/162c1bda00aa520170a7de54d104c4db26ac2693-1569x883.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="Ko-fi 货币设置"
+	
+	
+></p>
+<p>“Minimum price” 设置你的捐赠单价，即你的支持者赞助你的最低价格，预设是 5 美元。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/d11d02d9b0be7fc010a04b029abc06d9b80df06e-1569x883.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="Ko-fi 捐赠单价设置"
+	
+	
+></p>
+<h3 id="代码配置">代码配置
+</h3><p>点选左下角的 “Buttons &amp; Widgets” 选项，点击 “Ko-fi Button” 按钮。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/203e885a689cffd049bb035c7240a4670467817f-1502x889.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="ko-fi 代码配置"
+	
+	
+></p>
+<p>“Choose a Type”选择 “Image”，“Choose a Color”可以修改图片背景色，最后点击“Copy Code”把粘贴到项目就大功告成了🥳。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/ca7c0660fcc017b1ce887a2f2d8d05dee4dac111-1569x883.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="ko-fi 代码配置"
+	
+	
+></p>
+<h2 id="-定价httpshelpko-ficomhcen-usarticles360002506494-does-ko-fi-take-a-feeutm_sourceindiehackertoolsnet-ko-fi-定价">💰 <a class="link" href="https://help.ko-fi.com/hc/en-us/articles/360002506494-Does-Ko-fi-Take-a-Fee?utm_source=indiehackertools.net"  title="ko-fi 定价"
+     target="_blank" rel="noopener"
+    >定价</a>
+</h2><h3 id="免费方案">免费方案
+</h3><p>创作者可以免费使用 Ko-fi，接受打赏时平台收取 5% 的手续费。</p>
+<h3 id="ko-fi-gold-会员">Ko-fi Gold 会员
+</h3><p>创作者可以订阅每月 6 美元的 Ko-fi Gold，免除 5% 手续费的同时享受更多专业功能。</p>
+<p><img src="https://cdn.sanity.io/images/ntncowsx/production/2e0e29c39c6694813b97f3ab2196058be97dd32c-707x834.jpg?w=1200&amp;fit=max&amp;auto=format"
+	
+	
+	
+	loading="lazy"
+	
+		alt="ko-fi 定价"
+	
+	
+></p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+    <script src="//cdn.jsdelivr.net/npm/twikoo@1.6.39/dist/twikoo.all.min.js"></script>
+<div id="tcomment"></div>
+<style>
+    .twikoo {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+    :root[data-scheme="dark"] {
+        --twikoo-body-text-color-main: rgba(255, 255, 255, 0.9);
+        --twikoo-body-text-color: rgba(255, 255, 255, 0.7);
+    }
+    .twikoo .el-input-group__prepend,
+    .twikoo .tk-action-icon,
+    .twikoo .tk-submit-action-icon,
+    .twikoo .tk-time,
+    .twikoo .tk-comments-no,
+    .twikoo .tk-comments-count {
+        color: var(--twikoo-body-text-color);
+    }
+    .twikoo .el-input__inner,
+    .twikoo .el-textarea__inner,
+    .twikoo .tk-preview-container,
+    .twikoo .tk-content,
+    .twikoo .tk-nick,
+    .twikoo .tk-send {
+        color: var(--twikoo-body-text-color-main);
+    }
+    .twikoo .el-button{
+        color: var(--twikoo-body-text-color)!important;
+    }
+    .twikoo .el-input__count {
+        color: var(--twikoo-body-text-color) !important;
+    }
+    .OwO .OwO-body {
+        background-color: var(--body-background) !important;
+        color: var(--body-text-color) !important;
+    }
+</style><script>
+    twikoo.init({
+        envId: '',
+        el: '#tcomment',})
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 新杂家
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.29.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.34fdee515355e7801a53eb83d1b1e6f34f1ac13dbcc633427be52022971b8998.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
