@@ -200,6 +200,15 @@
 </description>
         </item>
         <item>
+        <title>终于打通obsidian和cf 了</title>
+        <link>http://localhost:1313/p/1421/</link>
+        <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/1421/</guid>
+        <description>&lt;p&gt;现在的发布流程是在obsidian 写笔记, 使用了插件 Envelopee ,  这个软件负责把笔记提交到github , 然后github 和 cf 之间建立链接, 自动部署, 所以很优雅的方式,写完大约等3分钟,博客上就可以看到了. 但是博客的内容和形式还需要慢慢打磨, 逐步来吧.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>3D打印解决小问题</title>
         <link>http://localhost:1313/p/2056/</link>
         <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
