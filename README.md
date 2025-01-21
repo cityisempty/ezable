@@ -1,3 +1,2 @@
-# cloudflare-hugo-theme-stack
-
-https://immmmm.com/hugo-github-cloudflare/
+新杂家博客
+记录下这些应该记录的东西
