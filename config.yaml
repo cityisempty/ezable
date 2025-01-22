@@ -16,7 +16,7 @@ languages:
     en:
         languageName: English
         title: Example Site
-        weight: 1
+        weight: 12
         params:
             sidebar:
                 subtitle: Example description
@@ -37,7 +37,7 @@ services:
         id:
 
 pagination:
-    pagerSize: 3
+    pagerSize: 5
 
 permalinks:
     post: /p/:slug/
@@ -51,8 +51,8 @@ params:
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
-        customText:
+        since: 2025
+        customText: 杂之广义，兼收并蓄，分享生活的美好
 
     dateFormat:
         published: Jan 02, 2006
