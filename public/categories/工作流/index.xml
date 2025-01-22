@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>工作流 on 新杂家</title>
+        <title>工作流 on 羽扇纶巾</title>
         <link>http://localhost:1313/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/</link>
-        <description>Recent content in 工作流 on 新杂家</description>
+        <description>Recent content in 工作流 on 羽扇纶巾</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
+        <language>zh-cn</language>
+        <copyright>羽扇纶巾</copyright>
         <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Agent Workflow 和 主流设计模式</title>
         <link>http://localhost:1313/p/agentworkflow/</link>
