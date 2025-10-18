@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>AI Agent on 羽扇纶巾</title>
-        <link>http://localhost:1313/categories/ai-agent/</link>
+        <link>https://kofi.us.kg/categories/ai-agent/</link>
         <description>Recent content in AI Agent on 羽扇纶巾</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>羽扇纶巾</copyright>
-        <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ai-agent/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://kofi.us.kg/categories/ai-agent/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Agent Workflow 和 主流设计模式</title>
-        <link>http://localhost:1313/p/agentworkflow/</link>
+        <link>https://kofi.us.kg/p/agentworkflow/</link>
         <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/agentworkflow/</guid>
-        <description>&lt;img src="http://localhost:1313/p/agentworkflow/accesswximg.png" alt="Featured image of post Agent Workflow 和 主流设计模式" /&gt;&lt;h2 id=&#34;agent-workflow-和-主流设计模式&#34;&gt;Agent Workflow 和 主流设计模式
+        <guid>https://kofi.us.kg/p/agentworkflow/</guid>
+        <description>&lt;img src="https://kofi.us.kg/p/agentworkflow/accesswximg.png" alt="Featured image of post Agent Workflow 和 主流设计模式" /&gt;&lt;h2 id=&#34;agent-workflow-和-主流设计模式&#34;&gt;Agent Workflow 和 主流设计模式
 &lt;/h2&gt;&lt;p&gt;今天分享的是吴恩达教授在美国红杉 AI 活动上关于 Agent 的最新趋势与洞察。吴恩达表示 Agent 工作流程与传统使用 LLM 的方式不同,它更加迭代和对话式。文章部分内容基于AI翻译，不能保证准确性，仅供参考。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://api.ibos.cn/v4/weapparticle/accesswximg?aid=78822&amp;amp;url=aHR0cHM6Ly9tbWJpei5xcGljLmNuL3N6X21tYml6X3BuZy93cU81Qjlkb0VIZmdLdkx0aWNjbFNmdWJpYkVTaEVxY1hXV0g3VjJwUWJ3SmVrOHh3Y0VmdzE4aWFxWmhkZzVKU0MxaGVzUEpDVmZjdlNDR0VRWGljY1M5d1EvNjQwP3d4X2ZtdD1wbmcmYW1w;from=appmsg&#34;
 	
