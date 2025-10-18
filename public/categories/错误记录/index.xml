@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>错误记录 on 羽扇纶巾</title>
+        <link>https://kofi.us.kg/categories/%E9%94%99%E8%AF%AF%E8%AE%B0%E5%BD%95/</link>
+        <description>Recent content in 错误记录 on 羽扇纶巾</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>羽扇纶巾</copyright>
+        <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kofi.us.kg/categories/%E9%94%99%E8%AF%AF%E8%AE%B0%E5%BD%95/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>could not determine executable to run. 错误</title>
+        <link>https://kofi.us.kg/p/1441/</link>
+        <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/p/1441/</guid>
+        <description>&lt;h2 id=&#34;什么时候发生的&#34;&gt;什么时候发生的？
+&lt;/h2&gt;&lt;p&gt;尝试将 TailwindCSS 引入 React 时会发生这种情况。&lt;br&gt;
+使用的命令和实际错误屏幕如下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install -D tailwindcss postcss autoprefixer
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npx tailwindcss init -p
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://storage.googleapis.com/zenn-user-upload/8746195eca4b-20250201.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;错误&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;TailwindCSS 的最新版本几天前刚刚发布&lt;code&gt;V4.0&lt;/code&gt;，安装方法有所改变。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zenn.dev/o0rororo0o/articles/%5B%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AEURL%5D%5c%28https://tailwindcss.com/docs/installation/using-vite%5c%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;开始使用 Tailwind CSS&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;httpszenndevo0rororo0oarticles003183a9a9d76ae8a7a3e6b1bae6b395解决方案&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://zenn.dev/o0rororo0o/articles/003183a9a9d76a#%E8%A7%A3%E6%B1%BA%E6%B3%95&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;/a&gt;解决方案
+&lt;/h2&gt;&lt;p&gt;使用旧版本的 tailwind,&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ npm install -D tailwindcss@3 postcss autoprefixer
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;Vite&lt;/code&gt;要在使用 TailwindCSS 的项目中安装它，&lt;code&gt;V4.0&lt;/code&gt;请使用以下命令。&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;npm install tailwindcss @tailwindcss/vite
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;总结就是v4 安装方法变了, 可以使用v3&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>技术备忘 on 羽扇纶巾</title>
+        <link>https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E5%A4%87%E5%BF%98/</link>
+        <description>Recent content in 技术备忘 on 羽扇纶巾</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>羽扇纶巾</copyright>
+        <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E5%A4%87%E5%BF%98/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>当OCLP崩溃的时候的处理</title>
+        <link>https://kofi.us.kg/p/1920/</link>
+        <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/p/1920/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;mount -uw &amp;ldquo;/Volumes/Sonoma 1&amp;rdquo; bless &amp;ndash;mount &amp;ldquo;/Volumes/Sonoma 1&amp;rdquo; -bootefi &amp;ndash;last-sealed-snapshot&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

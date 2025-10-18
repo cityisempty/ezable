@@ -2,73 +2,113 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on 羽扇纶巾</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://kofi.us.kg/categories/</link>
         <description>Recent content in Categories on 羽扇纶巾</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>羽扇纶巾</copyright>
-        <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>随笔</title>
-        <link>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</link>
-        <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kofi.us.kg/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技术男日常</title>
+        <link>https://kofi.us.kg/categories/%E6%8A%80%E6%9C%AF%E7%94%B7%E6%97%A5%E5%B8%B8/</link>
+        <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</guid>
+        <guid>https://kofi.us.kg/categories/%E6%8A%80%E6%9C%AF%E7%94%B7%E6%97%A5%E5%B8%B8/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>随笔</title>
+        <link>https://kofi.us.kg/categories/%E9%9A%8F%E7%AC%94/</link>
+        <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/categories/%E9%9A%8F%E7%AC%94/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>作文</title>
+        <link>https://kofi.us.kg/categories/%E4%BD%9C%E6%96%87/</link>
+        <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/categories/%E4%BD%9C%E6%96%87/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>错误记录</title>
+        <link>https://kofi.us.kg/categories/%E9%94%99%E8%AF%AF%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/categories/%E9%94%99%E8%AF%AF%E8%AE%B0%E5%BD%95/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>提示词</title>
+        <link>https://kofi.us.kg/categories/%E6%8F%90%E7%A4%BA%E8%AF%8D/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/categories/%E6%8F%90%E7%A4%BA%E8%AF%8D/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>福利</title>
+        <link>https://kofi.us.kg/categories/%E7%A6%8F%E5%88%A9/</link>
+        <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/categories/%E7%A6%8F%E5%88%A9/</guid>
         <description></description>
         </item>
         <item>
         <title>AI Agent</title>
-        <link>http://localhost:1313/categories/ai-agent/</link>
+        <link>https://kofi.us.kg/categories/ai-agent/</link>
         <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/ai-agent/</guid>
+        <guid>https://kofi.us.kg/categories/ai-agent/</guid>
         <description></description>
         </item>
         <item>
         <title>工作流</title>
-        <link>http://localhost:1313/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/</link>
+        <link>https://kofi.us.kg/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/</link>
         <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid>
+        <guid>https://kofi.us.kg/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/</guid>
         <description></description>
         </item>
         <item>
         <title>智能体</title>
-        <link>http://localhost:1313/categories/%E6%99%BA%E8%83%BD%E4%BD%93/</link>
+        <link>https://kofi.us.kg/categories/%E6%99%BA%E8%83%BD%E4%BD%93/</link>
         <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/%E6%99%BA%E8%83%BD%E4%BD%93/</guid>
+        <guid>https://kofi.us.kg/categories/%E6%99%BA%E8%83%BD%E4%BD%93/</guid>
         <description></description>
         </item>
         <item>
         <title>Syntax</title>
-        <link>http://localhost:1313/categories/syntax/</link>
+        <link>https://kofi.us.kg/categories/syntax/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/syntax/</guid>
+        <guid>https://kofi.us.kg/categories/syntax/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>http://localhost:1313/categories/themes/</link>
+        <link>https://kofi.us.kg/categories/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/themes/</guid>
+        <guid>https://kofi.us.kg/categories/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Test</title>
-        <link>http://localhost:1313/categories/test/</link>
+        <link>https://kofi.us.kg/categories/test/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/test/</guid>
-        <description>&lt;img src="http://localhost:1313/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://kofi.us.kg/categories/test/</guid>
+        <description>&lt;img src="https://kofi.us.kg/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
         </item>
         <item>
         <title>Test With Whitespaces</title>
-        <link>http://localhost:1313/categories/test-with-whitespaces/</link>
+        <link>https://kofi.us.kg/categories/test-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/test-with-whitespaces/</guid>
+        <guid>https://kofi.us.kg/categories/test-with-whitespaces/</guid>
         <description></description>
         </item>
         
