@@ -2,146 +2,230 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/p/2216/</loc>
+    <loc>https://kofi.us.kg/p/1920/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/1050/</loc>
+    <lastmod>2025-08-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/2146/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/2049/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/2211/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/2219/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/1104/</loc>
+    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/1441/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/1236/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/1540/</loc>
+    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/1240/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/2216/</loc>
     <lastmod>2025-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <loc>https://kofi.us.kg/categories/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://kofi.us.kg/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/categories/"
+                href="https://kofi.us.kg/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <loc>https://kofi.us.kg/post/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <loc>https://kofi.us.kg/tags/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://kofi.us.kg/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/tags/"
+                href="https://kofi.us.kg/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <loc>https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E5%A4%87%E5%BF%98/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <loc>https://kofi.us.kg/categories/%E6%8A%80%E6%9C%AF%E7%94%B7%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+    <loc>https://kofi.us.kg/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/</loc>
+    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://kofi.us.kg/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/"
+                href="https://kofi.us.kg/"
                 />
   </url><url>
-    <loc>http://localhost:1313/p/1430/</loc>
+    <loc>https://kofi.us.kg/tags/clippings/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/tags/%E4%BD%9C%E6%96%87/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/categories/%E4%BD%9C%E6%96%87/</loc>
+    <lastmod>2025-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E5%AE%85/</loc>
+    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/tags/%E7%BB%B4%E4%BF%AE/</loc>
+    <lastmod>2025-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/categories/%E9%94%99%E8%AF%AF%E8%AE%B0%E5%BD%95/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/tags/%E9%94%99%E8%AF%AF%E6%8F%90%E7%A4%BA/</loc>
+    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/tags/ai%E8%BE%85%E5%8A%A9/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E8%A7%84%E6%A0%BC/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/tags/%E8%A7%92%E8%89%B2/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/tags/%E4%BB%BB%E5%8A%A1/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/tags/%E8%AE%BE%E8%AE%A1%E9%A3%8E%E6%A0%BC/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/tags/%E6%8F%90%E7%A4%BA%E8%AF%8D/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/categories/%E6%8F%90%E7%A4%BA%E8%AF%8D/</loc>
+    <lastmod>2025-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/categories/%E7%A6%8F%E5%88%A9/</loc>
+    <lastmod>2025-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kofi.us.kg/p/1430/</loc>
     <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/1421/</loc>
+    <loc>https://kofi.us.kg/p/1421/</loc>
     <lastmod>2025-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/2056/</loc>
+    <loc>https://kofi.us.kg/p/2056/</loc>
     <lastmod>2025-01-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://kofi.us.kg/posts/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/1511/</loc>
+    <loc>https://kofi.us.kg/p/1511/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/1511/</loc>
+    <loc>https://kofi.us.kg/posts/1511/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/agentworkflow/</loc>
+    <loc>https://kofi.us.kg/p/agentworkflow/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/ai-agent/</loc>
+    <loc>https://kofi.us.kg/categories/ai-agent/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/</loc>
+    <loc>https://kofi.us.kg/categories/%E5%B7%A5%E4%BD%9C%E6%B5%81/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/%E6%99%BA%E8%83%BD%E4%BD%93/</loc>
+    <loc>https://kofi.us.kg/categories/%E6%99%BA%E8%83%BD%E4%BD%93/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/apr-16/</loc>
+    <loc>https://kofi.us.kg/p/apr-16/</loc>
     <lastmod>2024-04-16T14:11:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://kofi.us.kg/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://kofi.us.kg/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/css/</loc>
+    <loc>https://kofi.us.kg/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/html/</loc>
+    <loc>https://kofi.us.kg/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/markdown/</loc>
+    <loc>https://kofi.us.kg/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/markdown-syntax-guide/</loc>
+    <loc>https://kofi.us.kg/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/syntax/</loc>
+    <loc>https://kofi.us.kg/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/themes/</loc>
+    <loc>https://kofi.us.kg/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/themes/</loc>
+    <loc>https://kofi.us.kg/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/placeholder-text/</loc>
+    <loc>https://kofi.us.kg/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tag-with-whitespaces/</loc>
+    <loc>https://kofi.us.kg/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
+    <loc>https://kofi.us.kg/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/test-with-whitespaces/</loc>
+    <loc>https://kofi.us.kg/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/text/</loc>
+    <loc>https://kofi.us.kg/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/math-typesetting/</loc>
+    <loc>https://kofi.us.kg/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/emoji/</loc>
+    <loc>https://kofi.us.kg/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/emoji-support/</loc>
+    <loc>https://kofi.us.kg/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://kofi.us.kg/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/links/</loc>
+    <loc>https://kofi.us.kg/links/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://kofi.us.kg/search/</loc>
   </url>
 </urlset>

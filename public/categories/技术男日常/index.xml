@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>技术男日常 on 羽扇纶巾</title>
+        <link>https://kofi.us.kg/categories/%E6%8A%80%E6%9C%AF%E7%94%B7%E6%97%A5%E5%B8%B8/</link>
+        <description>Recent content in 技术男日常 on 羽扇纶巾</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>羽扇纶巾</copyright>
+        <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kofi.us.kg/categories/%E6%8A%80%E6%9C%AF%E7%94%B7%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>当OCLP崩溃的时候的处理</title>
+        <link>https://kofi.us.kg/p/1920/</link>
+        <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/p/1920/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;mount -uw &amp;ldquo;/Volumes/Sonoma 1&amp;rdquo; bless &amp;ndash;mount &amp;ldquo;/Volumes/Sonoma 1&amp;rdquo; -bootefi &amp;ndash;last-sealed-snapshot&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>日常维修小记</title>
+        <link>https://kofi.us.kg/p/1104/</link>
+        <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/p/1104/</guid>
+        <description>&lt;p&gt;家里的洗碗机和破壁机都坏了, 想着过劳工节修理一下,洗碗机估计设计问题,有残渣进入了排水泵, 用水强制冲洗, 未果,又懒得拆机,. 破壁机报温度传感器故障, 这个得拆机, 螺丝都拆了, 想再错误码, 就又插电, 居然错误消失了, 洗碗机隔了一晚,我都要拆机了, 再实验也好了,合着就是吓唬他们就行了,不用亲自动手.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

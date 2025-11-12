@@ -2,73 +2,169 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 羽扇纶巾</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>https://kofi.us.kg/tags/</link>
         <description>Recent content in Tags on 羽扇纶巾</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>羽扇纶巾</copyright>
-        <lastBuildDate>Tue, 21 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>随笔</title>
-        <link>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</link>
-        <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://kofi.us.kg/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技术备忘</title>
+        <link>https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E5%A4%87%E5%BF%98/</link>
+        <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/%E9%9A%8F%E7%AC%94/</guid>
+        <guid>https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E5%A4%87%E5%BF%98/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>随笔</title>
+        <link>https://kofi.us.kg/tags/%E9%9A%8F%E7%AC%94/</link>
+        <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/%E9%9A%8F%E7%AC%94/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Clippings</title>
+        <link>https://kofi.us.kg/tags/clippings/</link>
+        <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/clippings/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>作文</title>
+        <link>https://kofi.us.kg/tags/%E4%BD%9C%E6%96%87/</link>
+        <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/%E4%BD%9C%E6%96%87/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>技术宅</title>
+        <link>https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E5%AE%85/</link>
+        <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E5%AE%85/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>维修</title>
+        <link>https://kofi.us.kg/tags/%E7%BB%B4%E4%BF%AE/</link>
+        <pubDate>Sun, 04 May 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/%E7%BB%B4%E4%BF%AE/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>错误提示</title>
+        <link>https://kofi.us.kg/tags/%E9%94%99%E8%AF%AF%E6%8F%90%E7%A4%BA/</link>
+        <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/%E9%94%99%E8%AF%AF%E6%8F%90%E7%A4%BA/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>AI辅助</title>
+        <link>https://kofi.us.kg/tags/ai%E8%BE%85%E5%8A%A9/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/ai%E8%BE%85%E5%8A%A9/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>技术规格</title>
+        <link>https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E8%A7%84%E6%A0%BC/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/%E6%8A%80%E6%9C%AF%E8%A7%84%E6%A0%BC/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>角色</title>
+        <link>https://kofi.us.kg/tags/%E8%A7%92%E8%89%B2/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/%E8%A7%92%E8%89%B2/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>任务</title>
+        <link>https://kofi.us.kg/tags/%E4%BB%BB%E5%8A%A1/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/%E4%BB%BB%E5%8A%A1/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>设计风格</title>
+        <link>https://kofi.us.kg/tags/%E8%AE%BE%E8%AE%A1%E9%A3%8E%E6%A0%BC/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/%E8%AE%BE%E8%AE%A1%E9%A3%8E%E6%A0%BC/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>提示词</title>
+        <link>https://kofi.us.kg/tags/%E6%8F%90%E7%A4%BA%E8%AF%8D/</link>
+        <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://kofi.us.kg/tags/%E6%8F%90%E7%A4%BA%E8%AF%8D/</guid>
         <description></description>
         </item>
         <item>
         <title>Css</title>
-        <link>http://localhost:1313/tags/css/</link>
+        <link>https://kofi.us.kg/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/css/</guid>
+        <guid>https://kofi.us.kg/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>http://localhost:1313/tags/html/</link>
+        <link>https://kofi.us.kg/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/html/</guid>
+        <guid>https://kofi.us.kg/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>http://localhost:1313/tags/markdown/</link>
+        <link>https://kofi.us.kg/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/markdown/</guid>
+        <guid>https://kofi.us.kg/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>http://localhost:1313/tags/themes/</link>
+        <link>https://kofi.us.kg/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/themes/</guid>
+        <guid>https://kofi.us.kg/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag With Whitespaces</title>
-        <link>http://localhost:1313/tags/tag-with-whitespaces/</link>
+        <link>https://kofi.us.kg/tags/tag-with-whitespaces/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-with-whitespaces/</guid>
+        <guid>https://kofi.us.kg/tags/tag-with-whitespaces/</guid>
         <description></description>
         </item>
         <item>
         <title>Text</title>
-        <link>http://localhost:1313/tags/text/</link>
+        <link>https://kofi.us.kg/tags/text/</link>
         <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/text/</guid>
+        <guid>https://kofi.us.kg/tags/text/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>http://localhost:1313/tags/emoji/</link>
+        <link>https://kofi.us.kg/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/emoji/</guid>
+        <guid>https://kofi.us.kg/tags/emoji/</guid>
         <description></description>
         </item>
         
